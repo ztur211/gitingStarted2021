@@ -1,4 +1,4 @@
 # gitingStarted2021
 
 ## Kia ora everyone
-<-- wwelcome back to the future -->
+<-- welcome back to the future -->
